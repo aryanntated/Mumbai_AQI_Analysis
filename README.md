@@ -4,9 +4,9 @@ This project explores Mumbai's Air Quality Index (AQI) data from Kaggle (dataset
 
 
 ## Objectives
-    1. Understanding Trends: Analyze trends in pollutants (NO, NO2, NH3, SO2, CO).
-    2. City Planning Impact: Provide insights for informed city planning decisions.
-    3. Raising Awareness: Contribute data-driven insights for public awareness.
+1. Understanding Trends: Analyze trends in pollutants (NO, NO2, NH3, SO2, CO).
+2. City Planning Impact: Provide insights for informed city planning decisions.
+3. Raising Awareness: Contribute data-driven insights for public awareness.
 
 
 **To Clone the repository**
