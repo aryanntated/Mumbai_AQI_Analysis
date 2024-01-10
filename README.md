@@ -11,4 +11,4 @@ This project explores Mumbai's Air Quality Index (AQI) data from Kaggle (dataset
 
 **To Clone the repository**
   ```bash
-git clone https://github.com/aryanntated/Air-Quality-Mumbai-A
+git clone https://github.com/aryanntated/Mumbai_AQI_Analysis.git
